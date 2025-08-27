@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#app{
+  background-color: black;
+  border: 10px solid black;  
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  font-size: 2rem;
+  font-family: 'Arial';
+  text-align: center;
+}
+
+/* .hello{
+  color: rgb(255, 255, 255);
+  font-size: 5rem;
+  padding: 1rem;
+} */
