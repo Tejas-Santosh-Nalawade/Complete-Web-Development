@@ -1,2 +1,5 @@
-*desktop.ini
-*.vscode
+# Windows system file
+desktop.ini
+
+# VSCode editor settings
+.vscode/
